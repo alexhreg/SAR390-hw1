@@ -364,7 +364,7 @@ p {
 }
 
 .content-purple-box, .content-blue-box, .content-green-box, .content-yellow-box, .content-orange-box, .content-red-box, .content-white-top, .content-white-bottom{
-    height: 60px;
+    height: 50px;
     width: 400px;
 }
 .content-purple-box {
@@ -376,7 +376,7 @@ p {
 .content-green-box {
     background-color: #add4be;
 }
-.content-yellow-bow {
+.content-yellow-box {
     background-color: #eaf0a0;
 }
 .content-orange-box {
